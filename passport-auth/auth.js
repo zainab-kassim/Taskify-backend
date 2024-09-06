@@ -11,7 +11,7 @@ function generateToken(user) {
 
 
   const options = {
-    expiresIn: '24h', // Set token expiration time
+    expiresIn: '15s', // Set token expiration time
   };
 
 
